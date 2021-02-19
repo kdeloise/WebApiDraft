@@ -1,0 +1,12 @@
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\bin\Debug\netcoreapp3.1\WebApi.DAL.deps.json
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\bin\Debug\netcoreapp3.1\WebApi.DAL.dll
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\bin\Debug\netcoreapp3.1\WebApi.DAL.pdb
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.csprojAssemblyReference.cache
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.AssemblyInfo.cs
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.dll
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.pdb
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\bin\Debug\netcoreapp3.1\WebApi.DAL.runtimeconfig.json
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\bin\Debug\netcoreapp3.1\WebApi.DAL.runtimeconfig.dev.json
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.DAL\obj\Debug\netcoreapp3.1\WebApi.DAL.genruntimeconfig.cache

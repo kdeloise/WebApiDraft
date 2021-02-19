@@ -1,0 +1,12 @@
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\bin\Debug\netcoreapp3.1\WebApi.BLL.deps.json
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\bin\Debug\netcoreapp3.1\WebApi.BLL.dll
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\bin\Debug\netcoreapp3.1\WebApi.BLL.pdb
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.csprojAssemblyReference.cache
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.AssemblyInfo.cs
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.dll
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.pdb
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\bin\Debug\netcoreapp3.1\WebApi.DAL.dll
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\bin\Debug\netcoreapp3.1\WebApi.DAL.pdb
+C:\Users\Jimmy\Desktop\WebApi.WEB\WebApi.BLL\obj\Debug\netcoreapp3.1\WebApi.BLL.csproj.CopyComplete
